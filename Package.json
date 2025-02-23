@@ -1,0 +1,10 @@
+{
+  "name": "randomos",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc && cp -r src/assets dist/"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
